@@ -19,3 +19,16 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+### SPECIAL EXCEPTION FOR NON-CODE ASSETS
+The license mentioned above applies **ONLY** to the source code (including but not limited to .java, .js, .cpp, .py, .h, .html, .css files) of this project.
+
+**All non-code assets, including but not limited to:**
+* Images and Textures (.png, .jpg, .svg, etc.)
+* Audio and Music (.mp3, .wav, .ogg, etc.)
+* 3D Models and Shaders (.obj, .json, .glsl, etc.)
+
+Are **EXCLUDED** from the open-source license. I do not claim ownership of any third-party assets used in this project. These assets are provided for educational, demonstration, or personal use only. 
+
+Any unauthorized redistribution, commercial use, or modification of these non-code assets is strictly prohibited and remains the responsibility of the user.
